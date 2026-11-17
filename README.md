@@ -9,7 +9,7 @@ Software developer skilled in Python, Java and SQL, who enjoys building practica
 - **Tools:** Git, GitHub, VS Code
 
 ## 🚀 Projects
-- **resume---analyzer](https://github.com/<navedio/resume-analyzer):** Compares a resume with a job description and gives a match score, missing skills and suggestions. Built with Python, Streamlit and scikit-learn.
+- **resume-analyzer](https://github.com/<navedio/resume-analyzer):** Compares a resume with a job description and gives a match score, missing skills and suggestions. Built with Python, Streamlit and scikit-learn.
 
 ## 📫 Contact
 - Email: [naved11ansari@gmail.com]
