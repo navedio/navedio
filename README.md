@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm [Naved Ansari] 👋
 
-<!--
-**navedio/navedio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer skilled in Python, Java and SQL, who enjoys building practical projects.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, Java, SQL
+- **Libraries:** Streamlit, scikit-learn, pandas, 
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Resume Analyzer](https://github.com/<navedio/resume-analyzer):** Compares a resume with a job description and gives a match score, missing skills and suggestions. Built with Python, Streamlit and scikit-learn.
+
+## 📫 Contact
+- Email: [naved11ansari@gmail.com]
+- LinkedIn: [www.linkedin.com/in/naved-ansari-633282262]
